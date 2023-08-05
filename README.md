@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Binyam
-- 👀 I’m interested in ... Web Development
-- 🌱 I’m currently learning ... Javascript framework ( React )
-- 💞️ I’m looking to collaborate on ... web dev projects
-- 📫 How to reach me ... binyam.techan01@gmail.com
+- 👋 Hi, I’m __Binyam__
+- 👀 I’m interested in __Web Development__
+- 🌱 I’m currently learning __Javascript framework ( React )__
+- 📫 How to reach me __binyam.techan01@gmail.com__
 
 <!---
 binoyam/binoyam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
